@@ -25,7 +25,7 @@ ul {
     padding: 14px 16px;
     text-decoration: none;
   }
-  
+  /*_____________________________where the magic starts_________________*/
   li a:hover {
     background-color: none;
     font-size: 200%;
